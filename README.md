@@ -2,13 +2,15 @@
   <img src="https://raw.githubusercontent.com/Vanille-B/skyrock-automation-with-puppeteer/master/assets/img/skyblog-2002.jpg" alt="Skyblog automation preview project">
 </p>
 
-# Projet d'automatisation Skyrock avec Puppeteer
+# Skyrock Automation Project with Puppeteer 
 
 ## 🇫🇷 Introduction
 
+Projet d'automatisation Skyrock avec Puppeteer
+
 Ce projet est un script utilisant la bibliothèque Puppeteer pour automatiser certaines actions sur Skyrock. Il se connecte au site Skyrock, accède à l'espace administrateur et effectue l'action suivante : modifie l'état de tous les articles de manière automatisée en utilisant un navigateur automatisé.
 
-Ce script permet de changer rapidement l'état d'un grand nombre d'articles en quelques minutes, de manière automatisée. Par exemple, il peut passer tous les articles qui étaient en mode 'hors ligne' en mode 'secret', de sorte qu'ils seront visibles uniquement par l'administrateur à l'URL suivante : https://votreusername.skyrock.com/secret.
+Ce script permet de changer rapidement l'état d'un grand nombre d'articles en quelques minutes, de manière automatisée. Par exemple, il peut passer tous les articles qui étaient en mode 'hors ligne' en mode 'secret', de sorte qu'ils seront visibles uniquement par l'administrateur à l'URL suivante : `https://votrenom.skyrock.com/secret`
 
 ### 🇫🇷 Notes
 
@@ -40,10 +42,10 @@ Les contributions à ce projet sont les bienvenues. Si vous souhaitez améliorer
 
 ## 🇺🇸 Introduction
 
-Skyrock Automation Project with Puppeteer
+## Skyrock Automation Project with Puppeteer
 This project is a script that uses the Puppeteer library to automate certain actions on Skyrock. It connects to the Skyrock website, accesses the admin area, and performs the following action: automatically modifies the status of all articles using an automated browser.
 
-This script allows you to quickly change the status of a large number of articles in a few minutes, in an automated way. For example, it can change all articles that were in 'offline' mode to 'secret' mode, so they will only be visible to the administrator at the following URL: https://yourusername.skyrock.com/secret.
+This script allows you to quickly change the status of a large number of articles in a few minutes, in an automated way. For example, it can change all articles that were in 'offline' mode to 'secret' mode, so they will only be visible to the administrator at the following URL: `https://yourusername.skyrock.com/secret`
 
 ### 🇺🇸 Notes
 
